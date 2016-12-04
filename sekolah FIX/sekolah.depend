@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1480595478 source:e:\tugas\kampu\asd tubes\sekolah\kelas.cpp
+	"kelas.h"
+
+1480595478 e:\tugas\kampu\asd tubes\sekolah\kelas.h
+	<iostream>
+
+1480595478 source:e:\tugas\kampu\asd tubes\sekolah\main.cpp
+	<iostream>
+	"siswa.h"
+	"kelas.h"
+
+1479903332 source:e:\tugas\kampu\asd tubes\sekolah\siswa.cpp
+	"siswa.h"
+
+1480595478 e:\tugas\kampu\asd tubes\sekolah\siswa.h
+	"kelas.h"
+	<iostream>
+
+1480600385 source:e:\tugas\kampu\asd tubes\sekolah - copy\kelas.cpp
+	"kelas.h"
+
+1480600286 e:\tugas\kampu\asd tubes\sekolah - copy\kelas.h
+	"siswa.h"
+	<iostream>
+
+1480602826 e:\tugas\kampu\asd tubes\sekolah - copy\siswa.h
+	<iostream>
+
+1480616241 source:e:\tugas\kampu\asd tubes\sekolah - copy\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	"siswa.h"
+	"kelas.h"
+
+1480602826 source:e:\tugas\kampu\asd tubes\sekolah - copy\siswa.cpp
+	"siswa.h"
+
+1480847896 source:e:\tugas\kampu\asd tubes\sekolah fix\kelas.cpp
+	"kelas.h"
+
+1480683391 e:\tugas\kampu\asd tubes\sekolah fix\kelas.h
+	"siswa.h"
+	<iostream>
+
+1480846502 e:\tugas\kampu\asd tubes\sekolah fix\siswa.h
+	<iostream>
+
+1480846502 source:e:\tugas\kampu\asd tubes\sekolah fix\siswa.cpp
+	"siswa.h"
+
+1480851099 source:e:\tugas\kampu\asd tubes\sekolah fix\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	"siswa.h"
+	"kelas.h"
+
